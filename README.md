@@ -1,7 +1,7 @@
 # Skript Mining [1.16-1.19]
 Mining system made in Skript v2.6.4
 
-This skript provides your server with unique custom ming features. This includes custom enchants, custom ore loot and custom currency. Mine ores, gain orbs, upgrade your pickaxe and have some fun! You can change all messages, sounds, prices and even add your own custom enchantments. 
+This skript provides your server with unique custom mining features. This includes custom enchants, custom ore loot and custom currency. Mine ores, gain orbs, upgrade your pickaxe and have some fun! You can change all messages, sounds, prices and even add your own custom enchantments. 
 
 Please be sure to check out the wiki! The wiki links are listed below.
 
